@@ -1,1 +1,3 @@
-# bitq.mrlwitwma.in
+# BitQ
+
+**BITQ** is an innovative app designed to make learning interactive and engaging. Instead of consuming videos, users scroll through a series of multiple-choice questions (MCQs) across various topics. The app offers a gamified learning experience, allowing users to challenge themselves, track their progress, and compete with friends. Whether you're preparing for exams or just looking to sharpen your knowledge, BITQ turns learning into an enjoyable and addictive experience. With an intuitive interface and diverse question sets, BITQ makes education as easy and engaging as scrolling through your favorite social media app.
